@@ -1,0 +1,55 @@
+html {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    width: 80%;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    background-color: coral;
+    border-radius: 45%;
+    margin-top: 2em;
+
+    
+}
+
+header {
+    
+text-align: center;
+justify-content: center;
+font-family: "Shadows Into Light", Helvetica, sans-serif;
+margin: auto;
+margin-top: 2em;
+margin-bottom: 2em;
+}
+
+.main {
+    display: flex;
+    align-content: center;
+    margin: auto;
+    font-family: "Roboto Mono";
+}
+
+#result {
+    font-family: "Roboto Mono";
+    text-align: center;
+    margin-top: 40px;
+}
+
+input {
+    background-color: rgba(157, 224, 226, 0.5);
+    font-family: "Roboto Mono";
+    max-width: 200px;   
+}
+
+span {
+    margin-bottom: 40px;
+}
+
+button {
+    background-color: rgba(157, 224, 226, 0.5);
+    font-family: "Roboto Mono";
+}
