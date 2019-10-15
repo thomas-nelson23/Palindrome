@@ -53,3 +53,29 @@ button {
     background-color: rgba(157, 224, 226, 0.5);
     font-family: "Roboto Mono";
 }
+
+#radio-options {
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+
+}
+
+#consoleTree {
+    align-content: center;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+#tree {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#numBox {
+    justify-content: center;
+
+    margin: auto;
+    margin-bottom: 60px;
+}
